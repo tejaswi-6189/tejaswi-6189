@@ -5,7 +5,7 @@ Computer Science Engineering undergraduate at **VIT-AP University (2023–2027)*
 ## Education
 
 - **B.Tech in Computer Science Engineering**, VIT-AP University — 2023–2027
-- **CGPA:** 8.04
+- **CGPA:** 8.07
 
 ## Technical skills
 
